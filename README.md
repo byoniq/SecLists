@@ -1,3 +1,5 @@
+> **Fork notice:** This is a fork of [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists). For upstream community support, feature discussions, and contributions to the original project, visit the upstream repository. Issues specific to this fork can be opened [here](https://github.com/byoniq/SecLists/issues).
+
 ![Project logo](.github/SecLists.png)
 
 ### About SecLists
